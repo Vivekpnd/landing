@@ -457,3 +457,12 @@ footer{
   margin-top: -52px;
  }
 }
+@media (max-width:352px){
+  .card-container .card img{
+    max-width: 147px !important;
+    max-height: 188px !important; 
+  }
+  .card .o-item p {
+    font-size: 12.07px !important;
+}
+}
